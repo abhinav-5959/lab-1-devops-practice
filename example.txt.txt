@@ -1,0 +1,2 @@
+git hub is open source plat form
+git is used to store projects and all relative files
